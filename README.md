@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Baghel</h1>
-<h3 align="center">🚀 2nd Year Computer Science Student | Aspiring Software & Game Developer</h3>
+<h3 align="center">🚀 2nd Year Computer Science Student | Aspiring Software Developer</h3>
 
 <p align="center">
   <a href="https://github.com/sarveshbaghel">
